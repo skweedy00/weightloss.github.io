@@ -300,6 +300,8 @@ body {
 }
 
 .red-line {
+    display: flex;
+    justify-content: center;
     position: relative;
     text-align: center;
     color: red;
